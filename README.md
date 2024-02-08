@@ -1,2 +1,2 @@
 # majta777.github.io
-testy szurek
+testy Kacper CORS PD 10
